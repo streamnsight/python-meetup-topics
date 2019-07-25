@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+cli/.venv
+*.pyc
+nlp/nips-papers
+nips-papers.zip
+word1.png
