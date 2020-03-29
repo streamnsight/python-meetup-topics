@@ -1,0 +1,1 @@
+Namespace(bar=['bar'], foo='3', move='rock')
